@@ -1,0 +1,60 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1449874802625,
+        "modified": 1449874802625,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1449875861284,
+        "modified": 1449875861284,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1449874802625,
+        "modified": 1449874802625,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1449874802625,
+        "modified": 1449874802625,
+        "seen": true,
+        "name": "README.md"
+      },
+      "XDK_Santa_Hat.xdk": {
+        "previousModTime": 1449874802952,
+        "modified": 1449874802952,
+        "seen": true,
+        "name": "XDK_Santa_Hat.xdk"
+      },
+      "XDK_Santa_Hat.xdke": {
+        "previousModTime": 1449875843576,
+        "modified": 1449875843576,
+        "seen": true,
+        "name": "XDK_Santa_Hat.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1449874802902,
+        "modified": 1449874802902,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1449875861676
+      }
+    }
+  }
+}
