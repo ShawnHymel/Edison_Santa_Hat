@@ -135,9 +135,6 @@ function clearStream() {
  * Main
  *****************************************************************************/
 
-// Initialize PWM
-//pwmSetup();
-
 // Poll the stream at a regular interval
 setInterval(function() {
     getNumEntries();
