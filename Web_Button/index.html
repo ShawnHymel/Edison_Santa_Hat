@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Phant Button Test</title>
+</head>
+
+<body>
+    <div>
+        <button id="phantButton" onclick="postToPhant()">Push Me!</button>
+    </div>
+
+    <script type="text/javascript" src="lib/jquery/jquery-1.11.3.min.js"></script>
+    <script>
+        function postToPhant() {
+            $('#phantButton').prop('disabled', true);
+            $.get("http://data.sparkfun.com/input/<PUBLIC KEY>?private_key=<PRIVATE KEY>&on=1", function() {
+                setTimeout(function() {
+                        $('#phantButton').prop('disabled', false);
+                }, 10000);
+            }).fail(function() {
+                $('#phantButton').prop('disabled', false);
+            });
+        }
+    </script>
+</body>
+
+</html>

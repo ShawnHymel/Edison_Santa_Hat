@@ -9,51 +9,51 @@
   "iot-tab": {
     "fileStatus": {
       "icon.png": {
-        "previousModTime": 1449874802625,
-        "modified": 1449874802625,
+        "previousModTime": 1449950016988,
+        "modified": 1449950016988,
         "seen": true,
         "name": "icon.png"
       },
       "main.js": {
-        "previousModTime": 1449875861284,
-        "modified": 1449875861284,
+        "previousModTime": 1449961298987,
+        "modified": 1449961298987,
         "seen": true,
         "name": "main.js"
       },
       "package.json": {
-        "previousModTime": 1449874802625,
-        "modified": 1449874802625,
+        "previousModTime": 1449951568482,
+        "modified": 1449951568482,
         "seen": true,
         "name": "package.json"
       },
       "README.md": {
-        "previousModTime": 1449874802625,
-        "modified": 1449874802625,
+        "previousModTime": 1449950016985,
+        "modified": 1449950016985,
         "seen": true,
         "name": "README.md"
       },
       "XDK_Santa_Hat.xdk": {
-        "previousModTime": 1449874802952,
-        "modified": 1449874802952,
+        "previousModTime": 1449950016986,
+        "modified": 1449950016986,
         "seen": true,
         "name": "XDK_Santa_Hat.xdk"
       },
       "XDK_Santa_Hat.xdke": {
-        "previousModTime": 1449875843576,
-        "modified": 1449875843576,
+        "previousModTime": 1449961235941,
+        "modified": 1449961235941,
         "seen": true,
         "name": "XDK_Santa_Hat.xdke"
       },
       "xdk/project-info.json": {
-        "previousModTime": 1449874802902,
-        "modified": 1449874802902,
+        "previousModTime": 1449950016992,
+        "modified": 1449950016992,
         "seen": true,
         "name": "xdk/project-info.json"
       }
     },
     "boardFileStatus": {
       "main.js": {
-        "previousModTime": 1449875861676
+        "previousModTime": 1449961300860
       }
     }
   }
